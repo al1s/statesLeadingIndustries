@@ -1,0 +1,11 @@
+<query schema-version="1.0" lang="en" type="table" sig="W1IRDd8AtKQVqIIjwoNN76wja4w">
+  <product program-id="BP" dataset-id="2016" table-id="00A1"/>
+  <selection>
+    <dimension type="geo" vintage="2012">
+      <cat-id>0100000US.04000</cat-id>
+    </dimension>
+    <dimension type="naics" vintage="2012">
+      <cat-id>ALL-L4</cat-id>
+    </dimension>
+  </selection>
+</query>
